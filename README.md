@@ -1,7 +1,7 @@
 # Codechef-Solutions-Downloader
 Script to download your Codechef solutions locally on your PC.
 
-##Please ensure that you are logged out from Codechef and have 0 existing sessions before running this script.
+## Please ensure that you are logged out from Codechef and have 0 existing sessions before running this script.
  
 ### Requirements
 Platform: Linux
